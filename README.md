@@ -1,4 +1,4 @@
-# 🚀 Applied Machine Learning & Data Science Playbook
+# Applied Machine Learning & Data Science Playbook
 
 A structured knowledge base covering **Mathematics, Machine Learning, SQL, and Data Science fundamentals** with a focus on **real-world applications, practical implementation, and job readiness**.
 
