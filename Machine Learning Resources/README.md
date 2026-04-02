@@ -1,1 +1,1 @@
-Contains ML theory for beginners to advanced.
+Contains ML theory from beginners to advance.
